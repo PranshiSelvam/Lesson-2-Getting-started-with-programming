@@ -1,0 +1,5 @@
+print("Hello, my name is Pranshi!")
+print(7)
+print("I am currently" , 13 , "years old")
+print("I like cats" ,  end = "** \n")
+print("I have two cats. \n My elder cats name is Penny and he is white. \n My younger cats name is Waffle and he is brown. ")
